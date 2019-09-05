@@ -10,10 +10,10 @@ My friens need to send one simple question to their 93 fellas in order to get fe
 
 How does it work?
 1. All files from this git should be stored in one folder
-2. Script load list of your recipients from file 2send.xlsx
-3. Script load mailing parameters from file 3ini.xlsx
-4. Script 1send.py - mail to all 2send.xlsx recipients your queston. You should run this script
-5. Script 2get.py det all answers sturting current week monday till now and email you results.
+2. Script loads list of your recipients from file 2send.xlsx
+3. Script loads mailing parameters from file 3ini.xlsx
+4. Script 1send.py - mails to all 2send.xlsx recipients your queston. You should run this script
+5. Script 2get.py - gets all answers starting 'current week monday' till now and email you results.
 Thats it.
 
 How to use this script?
@@ -34,3 +34,5 @@ How to use this script?
 5. Run 1send.py - using command 'python yourfolder\1send.py'
 5.1 Wait for answers
 6. Run 2get.py - using command 'python yourfolder\2get.py'
+
+Ask me question!
