@@ -17,7 +17,7 @@ How does it work?
 Thats it.
 
 How to use this script?
-1. You should create special Email address for this. For example: yourownspecialmail@gmail.com. You should store password safely,
+1. You should create special gmail address for this. For example: yourownspecialmail@gmail.com. You should store password safely,
 2. You should store all files from this GitHub project into one folder,
 3. You edit file 3ini.xlsx,
 3.1 Instead of 'yourownspecialmail@gmail.com' - you enter your special email,
