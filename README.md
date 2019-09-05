@@ -12,8 +12,8 @@ How does it work?
 1. All files from this git should be stored in one folder
 2. Script loads list of your recipients from file 2send.xlsx
 3. Script loads mailing parameters from file 3ini.xlsx
-4. Script 1send.py - mails to all 2send.xlsx recipients your queston. You should run this script
-5. Script 2get.py - gets all answers starting 'current week monday' till now and email you results.
+4. 1send.py script mails to all 2send.xlsx recipients your queston. You should run this script
+5. 2get.py script gets all answers starting 'current week monday' till now and email you results.
 Thats it.
 
 How to use this script?
