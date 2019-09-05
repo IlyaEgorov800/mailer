@@ -27,6 +27,10 @@ How to use this script?
 3.5 Instead of 'myfirstemail@gmail.com;mysecondemail@gmail.com' - you enter your current email,
 3.6 Instead of 'Xmas invitation results' - you enter your resuting email theme,
 3.7 Instead of 'Will come: ' - you enter your resuting email text,
-4. Install python (if you use macOs or Linux, skip this step) - from
-5. Run 1send.py
-6. Run 2get.py
+4. Install python
+4.1 Windows - run installation from https://www.python.org/downloads/, button looks like 'Download Python 3.7.4'. Mark 'Add Python 3.x to PATH' when you will asked for. 
+4.2 macOs - find instruction here https://www.python.org/downloads/mac-osx/ 
+4.3 Linux - find instruction here https://www.python.org/downloads/source/
+5. Run 1send.py - using command 'python yourfolder\1send.py'
+5.1 Wait for answers
+6. Run 2get.py - using command 'python yourfolder\2get.py'
