@@ -35,4 +35,4 @@ How to use this script?
 5.1 Wait for answers
 6. Run 2get.py - using command 'python yourfolder\2get.py'
 
-Ask me question!
+Ask me questions!
