@@ -6,7 +6,7 @@ Please, use python 3.6 or higher!
 
 The Story
 
-My friens need to send one simple question to their 93 fellas in order to get feedback. They ask me to help him, to automate this. So, here we are. You should be 'IT guy' a little.
+My friens need to send one simple question to their 93 fellas in order to get feedback. They ask me to help him, to automate this. So, here we are. You should be 'IT guy' a little to repeate.
 
 How does it work?
 1. All files from this git should be stored in one folder
